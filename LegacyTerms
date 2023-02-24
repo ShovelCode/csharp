@@ -1,0 +1,9 @@
+Exceptions and other elements of the C# language that may have a long-lasting legacy.
+
+InvalidCastException
+NotImplementedException
+InvalidOperationException
+NullReferenceException
+
+System.Environment
+FirstOrDefault()
