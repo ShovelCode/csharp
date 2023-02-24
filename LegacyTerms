@@ -7,3 +7,6 @@ NullReferenceException
 
 System.Environment
 FirstOrDefault()
+
+
+NewtonSoft JsonDetailReport(); This depends on a non-Microsoft library
