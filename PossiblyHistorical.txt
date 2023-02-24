@@ -1,0 +1,3 @@
+Terms that may blink out of existence in the future.
+
+NetSDK 1022
