@@ -1,0 +1,9 @@
+@foreach (var item in Model) { 
+  <h2>@Html.DisplayFor(modelItem => item.ProgramType.ProgramType)</h2> 
+  foreach (var listing in item.SurveyResponseModels) 
+  { 
+     <ul> 
+       <li>@Html.DisplayFor(modelItem => listing.ProgramTitle)</li> 
+     </ul> 
+  } 
+} 
