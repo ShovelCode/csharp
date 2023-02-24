@@ -1,5 +1,0 @@
-Exceptions themselves that may have a long-lasting legacy.
-
-InvalidCastException
-NotImplementedException
-InvalidOperationException
