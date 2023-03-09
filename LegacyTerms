@@ -8,5 +8,6 @@ NullReferenceException
 System.Environment
 FirstOrDefault()
 
+collectionObject.Find()
 RedirectToAction()
 NewtonSoft JsonDetailReport(); This depends on a non-Microsoft library
