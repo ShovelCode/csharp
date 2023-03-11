@@ -6,8 +6,11 @@ InvalidOperationException
 NullReferenceException
 
 System.Environment
-FirstOrDefault()
+FirstOrDefault() //is this related to mongodb?
 
 collectionObject.Find()
 RedirectToAction()
 NewtonSoft JsonDetailReport(); This depends on a non-Microsoft library
+
+true
+false
